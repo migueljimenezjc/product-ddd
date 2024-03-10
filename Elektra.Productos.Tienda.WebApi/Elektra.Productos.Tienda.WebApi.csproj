@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>1c9958f2-4295-4b99-85ae-5c1e2d5fc372</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Serilog" Version="3.1.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Elektra.Productos.Tienda.ApplicationServices\Elektra.Productos.Tienda.ApplicationServices.csproj" />
+    <ProjectReference Include="..\Elektra.Productos.Tienda.Persistence\Elektra.Productos.Tienda.Persistence.csproj" />
+    <ProjectReference Include="..\Elektra.Productos.Tienda.WebApi.Core\Elektra.Productos.Tienda.WebApi.Core.csproj" />
+  </ItemGroup>
+
+</Project>

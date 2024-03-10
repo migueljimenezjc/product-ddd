@@ -1,0 +1,15 @@
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainServices\bin\Debug\net6.0\Elektra.Productos.Tienda.DomainServices.deps.json
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainServices\bin\Debug\net6.0\Elektra.Productos.Tienda.DomainServices.dll
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainServices\bin\Debug\net6.0\Elektra.Productos.Tienda.DomainServices.pdb
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainServices\bin\Debug\net6.0\Elektra.Productos.Tienda.DomainModel.dll
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainServices\bin\Debug\net6.0\Elektra.Productos.Tienda.DomainModel.pdb
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainServices\obj\Debug\net6.0\Elektra.Productos.Tienda.DomainServices.csproj.AssemblyReference.cache
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainServices\obj\Debug\net6.0\Elektra.Productos.Tienda.DomainServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainServices\obj\Debug\net6.0\Elektra.Productos.Tienda.DomainServices.AssemblyInfoInputs.cache
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainServices\obj\Debug\net6.0\Elektra.Productos.Tienda.DomainServices.AssemblyInfo.cs
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainServices\obj\Debug\net6.0\Elektra.Productos.Tienda.DomainServices.csproj.CoreCompileInputs.cache
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainServices\obj\Debug\net6.0\Elektra.Productos.Tienda.DomainServices.csproj.CopyComplete
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainServices\obj\Debug\net6.0\Elektra.Productos.Tienda.DomainServices.dll
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainServices\obj\Debug\net6.0\refint\Elektra.Productos.Tienda.DomainServices.dll
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainServices\obj\Debug\net6.0\Elektra.Productos.Tienda.DomainServices.pdb
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainServices\obj\Debug\net6.0\ref\Elektra.Productos.Tienda.DomainServices.dll

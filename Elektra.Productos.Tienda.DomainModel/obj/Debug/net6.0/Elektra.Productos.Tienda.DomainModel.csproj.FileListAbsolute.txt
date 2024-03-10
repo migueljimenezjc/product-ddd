@@ -1,0 +1,12 @@
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainModel\bin\Debug\net6.0\Elektra.Productos.Tienda.DomainModel.deps.json
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainModel\bin\Debug\net6.0\Elektra.Productos.Tienda.DomainModel.dll
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainModel\bin\Debug\net6.0\Elektra.Productos.Tienda.DomainModel.pdb
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainModel\obj\Debug\net6.0\Elektra.Productos.Tienda.DomainModel.csproj.AssemblyReference.cache
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainModel\obj\Debug\net6.0\Elektra.Productos.Tienda.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainModel\obj\Debug\net6.0\Elektra.Productos.Tienda.DomainModel.AssemblyInfoInputs.cache
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainModel\obj\Debug\net6.0\Elektra.Productos.Tienda.DomainModel.AssemblyInfo.cs
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainModel\obj\Debug\net6.0\Elektra.Productos.Tienda.DomainModel.csproj.CoreCompileInputs.cache
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainModel\obj\Debug\net6.0\Elektra.Productos.Tienda.DomainModel.dll
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainModel\obj\Debug\net6.0\refint\Elektra.Productos.Tienda.DomainModel.dll
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainModel\obj\Debug\net6.0\Elektra.Productos.Tienda.DomainModel.pdb
+E:\Users\1051188\source\repos\Elektra.Productos.Tienda\Elektra.Productos.Tienda.DomainModel\obj\Debug\net6.0\ref\Elektra.Productos.Tienda.DomainModel.dll

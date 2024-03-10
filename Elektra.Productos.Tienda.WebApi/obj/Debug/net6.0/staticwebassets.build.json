@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WAIoTVmyrPe29xqnXxo38d5GWyhk7tT6zRRSsDpsIdc=",
+  "Source": "Elektra.Productos.Tienda.WebApi",
+  "BasePath": "_content/Elektra.Productos.Tienda.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

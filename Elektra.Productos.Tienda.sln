@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elektra.Productos.Tienda.WebApi", "Elektra.Productos.Tienda.WebApi\Elektra.Productos.Tienda.WebApi.csproj", "{D4212521-11EB-4FAC-BDF4-8D14A2CCF197}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elektra.Productos.Tienda.ApplicationServices", "Elektra.Productos.Tienda.ApplicationServices\Elektra.Productos.Tienda.ApplicationServices.csproj", "{867EC492-97CB-4B6E-A247-B4B5E0B3E285}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elektra.Productos.Tienda.DomainModel", "Elektra.Productos.Tienda.DomainModel\Elektra.Productos.Tienda.DomainModel.csproj", "{B7B5D135-63B4-4F99-A84C-CC3FA31DDE02}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elektra.Productos.Tienda.DomainServices", "Elektra.Productos.Tienda.DomainServices\Elektra.Productos.Tienda.DomainServices.csproj", "{173202F4-7933-43F7-945A-4757696C8A1F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elektra.Productos.Tienda.Persistence", "Elektra.Productos.Tienda.Persistence\Elektra.Productos.Tienda.Persistence.csproj", "{42EC8216-7A91-415E-9BD1-33B42F399258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elektra.Productos.Tienda.WebApi.Core", "Elektra.Productos.Tienda.WebApi.Core\Elektra.Productos.Tienda.WebApi.Core.csproj", "{55DD61D4-B3E4-4865-9403-23EE22753F4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4212521-11EB-4FAC-BDF4-8D14A2CCF197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4212521-11EB-4FAC-BDF4-8D14A2CCF197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4212521-11EB-4FAC-BDF4-8D14A2CCF197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4212521-11EB-4FAC-BDF4-8D14A2CCF197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{867EC492-97CB-4B6E-A247-B4B5E0B3E285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867EC492-97CB-4B6E-A247-B4B5E0B3E285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867EC492-97CB-4B6E-A247-B4B5E0B3E285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867EC492-97CB-4B6E-A247-B4B5E0B3E285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B5D135-63B4-4F99-A84C-CC3FA31DDE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B5D135-63B4-4F99-A84C-CC3FA31DDE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B5D135-63B4-4F99-A84C-CC3FA31DDE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B5D135-63B4-4F99-A84C-CC3FA31DDE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{173202F4-7933-43F7-945A-4757696C8A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173202F4-7933-43F7-945A-4757696C8A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173202F4-7933-43F7-945A-4757696C8A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173202F4-7933-43F7-945A-4757696C8A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42EC8216-7A91-415E-9BD1-33B42F399258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42EC8216-7A91-415E-9BD1-33B42F399258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42EC8216-7A91-415E-9BD1-33B42F399258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42EC8216-7A91-415E-9BD1-33B42F399258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55DD61D4-B3E4-4865-9403-23EE22753F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DD61D4-B3E4-4865-9403-23EE22753F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DD61D4-B3E4-4865-9403-23EE22753F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DD61D4-B3E4-4865-9403-23EE22753F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE65A668-5484-4C4B-913B-54B2216C45F9}
+	EndGlobalSection
+EndGlobal
